@@ -10,7 +10,7 @@ I tried to combined two different projects together.
 
 ## History
 This project coming from two different projects:
-1. Manipulator Robot
+1. Manipulator Robot:
 It was created by students as a final project and then developed by John Michael Adiputra and Andi Baso in 2017.
 
 2. Conveyor Robot
