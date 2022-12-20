@@ -17,7 +17,7 @@ Servo servo2;
 
 NewPing sonar(trigPin, echoPin, MAX_DISTANCE);
 
-int IN4 = 15;                                      // D8 NodeMCU ESP8266
+int IN4 = 15;                                     // D8 NodeMCU ESP8266
 const int tombol = 2;                             // D4 NodeMCU ESP8266
 int countertombol = 0;
 int count = 0;                                    // Jumlah Jeruk
@@ -53,7 +53,7 @@ void setup()
   pinMode(trigPin,OUTPUT);        // Trig pin
   pinMode(echoPin,INPUT);         // Echo pin
 
-  servo1.attach(12);              // D6 node
+  servo1.attach(12);              // D6 NodeMCU ESP8266
   servo2.attach(14);              // D5 NodeMCU ESP8266
 
   servo1.write(105);
@@ -145,9 +145,9 @@ void IR1()
     lcd.print(" Kecil=");
     lcd.print(countkecil);
     
-    digitalWrite(IN4,LOW);  //Motor off
+    digitalWrite(IN4,LOW);  // Motor OFF
     delay(1000);
-    digitalWrite(IN4,HIGH); //Motor on 
+    digitalWrite(IN4,HIGH); // Motor ON 
   }
 }
 
