@@ -34,5 +34,8 @@ For Manipulator Robot:
 ## Youtube
 [Youtube](https://youtu.be/FnN2X-vGAT0)
 
+## Circuit Diagram
+![Conveyor Circuit Diagram](https://github.com/vkurpmax/ICCS_Conveyor/blob/Circuit Diagram/Conveyor Circuit.jpg?raw=true)
+
 ## License
 [MIT License](LICENSE)
