@@ -20,8 +20,9 @@ For Manipulator Robot:
 1. Arduino Mega
 
 ## Software used
-1. Arduino IDE — download [here](https://www.arduino.cc/en/software)
+1. Arduino IDE — Download [here](https://www.arduino.cc/en/software)
 2. Blink (for mobile, download from Play Store)
+3. Fritzing — For Circuit Diagram Design
 
 ## My Team
 - Putu Herdy Kurniawan
