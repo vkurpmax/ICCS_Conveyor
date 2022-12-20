@@ -1,6 +1,6 @@
 # ICCS_Conveyor
 Integrated Conveyor Control System (ICCS) was my project on Mechatronics Day 2022.
-I tried to combined two different projects together.
+I tried to combined two different projects together, Conveyor Robot and Manipulator Robot.
 
 ## History
 This project coming from two different projects:
@@ -23,7 +23,7 @@ For Manipulator Robot:
 1. Arduino IDE — download [here](https://www.arduino.cc/en/software)
 2. Blink (for mobile, download from Play Store)
 
-## Our Team
+## My Team
 - Putu Herdy Kurniawan
 - Agus
 - Indri Puspita
