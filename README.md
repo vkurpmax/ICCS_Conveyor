@@ -10,6 +10,15 @@ It was created by students as a final project and then developed by John Michael
 2. Conveyor Robot <br>
 It was created by Handrisumanto's team for Mechatronic's Day 2020
 
+## Microcontrollers
+It used 3 Microcontrollers: <br>
+For Conveyor:
+1. NodeMCU ESP8266 Wifi
+2. Arduino Uno
+
+For Manipulator Robot:
+1. Arduino Mega
+
 ## My Team
 - Putu Herdy Kurniawan
 - Agus
