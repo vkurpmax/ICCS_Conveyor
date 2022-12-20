@@ -23,7 +23,7 @@ For Manipulator Robot:
 1. Arduino IDE — download [here](https://www.arduino.cc/en/software)
 2. Blink (for mobile, download from Play Store)
 
-## My Team
+## Our Team
 - Putu Herdy Kurniawan
 - Agus
 - Indri Puspita
