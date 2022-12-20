@@ -28,6 +28,7 @@ For Manipulator Robot:
 - Agus
 - Indri Puspita
 - Risnawati
+- Aan Darmawan
 
 ## License
 [MIT License](LICENSE)
