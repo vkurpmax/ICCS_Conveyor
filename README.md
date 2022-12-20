@@ -19,6 +19,10 @@ For Conveyor:
 For Manipulator Robot:
 1. Arduino Mega
 
+## Software used
+1. Arduino IDE
+2. Blink (for mobile, download from Play Store)
+
 ## My Team
 - Putu Herdy Kurniawan
 - Agus
