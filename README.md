@@ -13,7 +13,9 @@ It was created by Handrisumanto's team for Mechatronic's Day 2020
 ## Microcontrollers
 It used 3 Microcontrollers: <br>
 For Conveyor:
-1. NodeMCU ESP8266 Wifi
+1. NodeMCU ESP8266 Wifi <br>
+More about NodeMCU ESP8266 can be read [here](https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/)
+![NodeMCU ESP8266 GPIO Diagram](https://github.com/vkurpmax/ICCS_Conveyor/blob/main/NodeMCU%20ESP8266/ESP8266-NodeMCU-kit-12-E-pinout-gpio-pin.webp?raw=true)
 2. Arduino Uno
 
 For Manipulator Robot:
