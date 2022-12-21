@@ -11,7 +11,8 @@ It was created by students as a final project and then developed by John Michael
 It was created by Handrisumanto's team for Mechatronic's Day 2020
 
 ## Microcontrollers
-It used 3 Microcontrollers: <br>
+This project used 3 Microcontrollers:
+
 For Conveyor:
 1. NodeMCU ESP8266 Wifi <br>
 More about NodeMCU ESP8266 can be read [here](https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/)
