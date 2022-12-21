@@ -27,9 +27,9 @@ long duration;
 int distance;
 int val2;
 
-char auth[] = "D2z26gaorTO98bRkWelsW-mheQCpFkXx";
-char ssid[] = "Vkurpmax";
-char pass[] = "lumos maxima";
+char auth[] = "D2z26gaorTO98bRkWelsW-mheQCpFkXx"; // Change to your Blynk Authentication Token
+char ssid[] = "Vkurpmax";                         // Change to your Network SSID
+char pass[] = "lumos maxima";                     // Change to your Network Password
 
 BlynkTimer timer;
 
