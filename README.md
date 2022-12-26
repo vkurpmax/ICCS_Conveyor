@@ -27,6 +27,9 @@ For Manipulator Robot:
 2. Blink (for mobile, download from Play Store)
 3. Fritzing — For Circuit Diagram Design
 
+## Other device
+1. Power Supply 12V adaptor to Arduino Uno (1A is enough)
+
 ## My Team
 - Putu Herdy Kurniawan
 - Agus
