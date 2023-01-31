@@ -44,7 +44,6 @@ For Manipulator Robot:
 ### Conveyor Circuit Diagram
 ![Conveyor Circuit Diagram](https://github.com/vkurpmax/ICCS_Conveyor/blob/main/Circuit%20Diagram/Conveyor%20Circuit.jpg?raw=true)
 
-## Circuit Diagram
 ### Conveyor IoT using Blynk
 ![Conveyor Circuit Diagram](https://github.com/vkurpmax/ICCS_Conveyor/blob/main/Conveyor_IoT_Blynk.jpeg?raw=true)
 
