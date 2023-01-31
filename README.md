@@ -24,7 +24,7 @@ For Manipulator Robot:
 
 ## Software used
 1. Arduino IDE — Download [here](https://www.arduino.cc/en/software)
-2. Blink (for mobile, download from Play Store)
+2. Blynk (for mobile, download from Play Store)
 3. Fritzing — For Circuit Diagram Design
 
 ## Other device
@@ -43,6 +43,10 @@ For Manipulator Robot:
 ## Circuit Diagram
 ### Conveyor Circuit Diagram
 ![Conveyor Circuit Diagram](https://github.com/vkurpmax/ICCS_Conveyor/blob/main/Circuit%20Diagram/Conveyor%20Circuit.jpg?raw=true)
+
+## Circuit Diagram
+### Conveyor IoT using Blynk
+![Conveyor Circuit Diagram](https://github.com/vkurpmax/ICCS_Conveyor/blob/main/Conveyor_IoT_Blynk.jpeg?raw=true)
 
 ## License
 [MIT License](LICENSE)
